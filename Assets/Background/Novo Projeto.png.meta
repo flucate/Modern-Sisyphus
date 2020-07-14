@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: fc34761d0004d964ba77284c6e8cdff3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9222171635321504806
+    second: Novo Projeto_0
+  - first:
+      213: 5413346520361836554
+    second: Novo Projeto_1
+  - first:
+      213: 3184637751654121002
+    second: Novo Projeto_2
+  - first:
+      213: -367383976334194663
+    second: Novo Projeto_3
+  - first:
+      213: 967869302315409940
+    second: Novo Projeto_4
+  - first:
+      213: -3733683756581991633
+    second: Novo Projeto_5
+  - first:
+      213: 1931172440877720744
+    second: Novo Projeto_6
+  - first:
+      213: 3576092167322456063
+    second: Novo Projeto_7
+  - first:
+      213: 2348365203021900089
+    second: Novo Projeto_8
+  - first:
+      213: 8368566615521641947
+    second: Novo Projeto_9
+  - first:
+      213: 8432010265508875592
+    second: Novo Projeto_10
+  - first:
+      213: -5672175415894339010
+    second: Novo Projeto_11
+  - first:
+      213: 7891554858423779502
+    second: Novo Projeto_12
+  - first:
+      213: 8041641220767359757
+    second: Novo Projeto_13
+  - first:
+      213: -3750120448992755456
+    second: Novo Projeto_14
+  - first:
+      213: 5282753746378955573
+    second: Novo Projeto_15
+  - first:
+      213: -1076118174246568241
+    second: Novo Projeto_16
+  - first:
+      213: 6321225750375113816
+    second: Novo Projeto_17
+  - first:
+      213: -5138632277632544331
+    second: Novo Projeto_18
+  - first:
+      213: 5247987261105654355
+    second: Novo Projeto_19
+  - first:
+      213: -9047583168256164164
+    second: Novo Projeto_20
+  - first:
+      213: 1266254169428795608
+    second: Novo Projeto_21
+  - first:
+      213: 5657415361665274660
+    second: Novo Projeto_22
+  - first:
+      213: 5825579949669654240
+    second: Novo Projeto_23
+  - first:
+      213: 1558875332109508935
+    second: Novo Projeto_24
+  - first:
+      213: -3657801547026672516
+    second: Novo Projeto_25
+  - first:
+      213: 1535331096592076394
+    second: Novo Projeto_26
+  - first:
+      213: 7105380792892118653
+    second: Novo Projeto_27
+  - first:
+      213: -8507669167010814181
+    second: Novo Projeto_28
+  - first:
+      213: -241832253993559645
+    second: Novo Projeto_29
+  - first:
+      213: 5276753832200220433
+    second: Novo Projeto_30
+  - first:
+      213: -6399392605558483874
+    second: Novo Projeto_31
+  - first:
+      213: -4798438078177066230
+    second: Novo Projeto_32
+  - first:
+      213: 5060051544468934901
+    second: Novo Projeto_33
+  - first:
+      213: -4611105872984676233
+    second: Novo Projeto_34
+  - first:
+      213: -7096375657883565883
+    second: Novo Projeto_35
+  - first:
+      213: -4271212759897382314
+    second: Novo Projeto_36
+  - first:
+      213: -3614093640463721680
+    second: Novo Projeto_37
+  - first:
+      213: -5195497664813446901
+    second: Novo Projeto_38
+  - first:
+      213: 7158524213059819682
+    second: Novo Projeto_39
+  - first:
+      213: 890419276503323933
+    second: Novo Projeto_40
+  - first:
+      213: -2643262362132285933
+    second: Novo Projeto_41
+  - first:
+      213: 4397254319623335990
+    second: Novo Projeto_42
+  - first:
+      213: 4713806545088399438
+    second: Novo Projeto_43
+  - first:
+      213: -1320390953906524230
+    second: Novo Projeto_44
+  - first:
+      213: 8672485341136682323
+    second: Novo Projeto_45
+  - first:
+      213: 6289327146285472618
+    second: Novo Projeto_46
+  - first:
+      213: 3014928733082898111
+    second: Novo Projeto_47
+  - first:
+      213: -672118801333166436
+    second: Novo Projeto_48
+  - first:
+      213: 1909877485239303015
+    second: Novo Projeto_49
+  - first:
+      213: -6201762412303166049
+    second: Novo Projeto_50
+  - first:
+      213: 7778019928936531303
+    second: Novo Projeto_51
+  - first:
+      213: 8867378437245689283
+    second: Novo Projeto_52
+  - first:
+      213: 1130961169136269774
+    second: Novo Projeto_53
+  - first:
+      213: -8786352223585347179
+    second: Novo Projeto_54
+  - first:
+      213: -2154948274028490349
+    second: Novo Projeto_55
+  - first:
+      213: 4099544513154642855
+    second: Novo Projeto_56
+  - first:
+      213: 6408031265421413843
+    second: Novo Projeto_57
+  - first:
+      213: -8060147610263872506
+    second: Novo Projeto_58
+  - first:
+      213: 8681173606757411140
+    second: Novo Projeto_59
+  - first:
+      213: -4691540536976421441
+    second: Novo Projeto_60
+  - first:
+      213: -7921411177561406662
+    second: Novo Projeto_61
+  - first:
+      213: -9048277448333378930
+    second: Novo Projeto_62
+  - first:
+      213: 249098645861947987
+    second: Novo Projeto_63
+  - first:
+      213: -6648771055200343899
+    second: Novo Projeto_64
+  - first:
+      213: -3736604969777772102
+    second: Novo Projeto_65
+  - first:
+      213: -1668489704354744956
+    second: Novo Projeto_66
+  - first:
+      213: 8302297222700280300
+    second: Novo Projeto_67
+  - first:
+      213: -8872976269148386654
+    second: Novo Projeto_68
+  - first:
+      213: 2341477638524628490
+    second: Novo Projeto_69
+  - first:
+      213: 320177150505579005
+    second: Novo Projeto_70
+  - first:
+      213: 5480363816446284222
+    second: Novo Projeto_71
+  - first:
+      213: -1606458344926075870
+    second: Novo Projeto_72
+  - first:
+      213: -7730605056151912860
+    second: Novo Projeto_73
+  - first:
+      213: -7784609139815272040
+    second: Novo Projeto_74
+  - first:
+      213: 6277101484921814947
+    second: Novo Projeto_75
+  - first:
+      213: 8726920633721352
+    second: Novo Projeto_76
+  - first:
+      213: 7581329961340584032
+    second: Novo Projeto_77
+  - first:
+      213: 3310570676658366856
+    second: Novo Projeto_78
+  - first:
+      213: -6267208806231064394
+    second: Novo Projeto_0
+  - first:
+      213: -5159409498573122331
+    second: Novo Projeto_1
+  - first:
+      213: -7490854623867910416
+    second: Novo Projeto_2
+  - first:
+      213: -3674430516526603967
+    second: Novo Projeto_3
+  - first:
+      213: -9002429792210137826
+    second: Novo Projeto_4
+  - first:
+      213: -1022042992550947246
+    second: Novo Projeto_5
+  - first:
+      213: -499263392988562932
+    second: Novo Projeto_6
+  - first:
+      213: -7955336798874741468
+    second: Novo Projeto_7
+  - first:
+      213: 2997279186498950645
+    second: Novo Projeto_8
+  - first:
+      213: 5117461430227236036
+    second: Novo Projeto_9
+  - first:
+      213: -6386848619766274647
+    second: Novo Projeto_10
+  - first:
+      213: -4754424744645917636
+    second: Novo Projeto_11
+  - first:
+      213: 6503873613577345516
+    second: Novo Projeto_12
+  - first:
+      213: -5697831909674116051
+    second: Novo Projeto_13
+  - first:
+      213: 1912665864722239071
+    second: Novo Projeto_14
+  - first:
+      213: 1449490285485487897
+    second: Novo Projeto_15
+  - first:
+      213: 8239640676864824938
+    second: Novo Projeto_16
+  - first:
+      213: -8330528746182177023
+    second: Novo Projeto_17
+  - first:
+      213: 6026316140231775152
+    second: Novo Projeto_18
+  - first:
+      213: 3325758442730642094
+    second: Novo Projeto_19
+  - first:
+      213: 6431727626458449935
+    second: Novo Projeto_20
+  - first:
+      213: -7348383152225449986
+    second: Novo Projeto_21
+  - first:
+      213: -5804137270088012591
+    second: Novo Projeto_22
+  - first:
+      213: -7965335415471485529
+    second: Novo Projeto_23
+  - first:
+      213: -1336796896942473492
+    second: Novo Projeto_24
+  - first:
+      213: 4058197713258730808
+    second: Novo Projeto_25
+  - first:
+      213: 9042261705879308047
+    second: Novo Projeto_26
+  - first:
+      213: -4906844645076265592
+    second: Novo Projeto_27
+  - first:
+      213: -2137139356755757715
+    second: Novo Projeto_28
+  - first:
+      213: 5075168142901267184
+    second: Novo Projeto_29
+  - first:
+      213: 3501697469518874190
+    second: Novo Projeto_30
+  - first:
+      213: 8313888745335713099
+    second: Novo Projeto_31
+  - first:
+      213: -3571833795802350538
+    second: Novo Projeto_32
+  - first:
+      213: -7875362588268062761
+    second: Novo Projeto_33
+  - first:
+      213: 6239101781105637122
+    second: Novo Projeto_34
+  - first:
+      213: -1292507766815973280
+    second: Novo Projeto_35
+  - first:
+      213: 8559428911672558451
+    second: Novo Projeto_36
+  - first:
+      213: -4538541282645265486
+    second: Novo Projeto_37
+  - first:
+      213: -4721871573993095401
+    second: Novo Projeto_38
+  - first:
+      213: -2487402720447283711
+    second: Novo Projeto_39
+  - first:
+      213: -8244279100161250740
+    second: Novo Projeto_40
+  - first:
+      213: -6842195471269445197
+    second: Novo Projeto_41
+  - first:
+      213: -7516816779487074973
+    second: Novo Projeto_42
+  - first:
+      213: -6247694980363145926
+    second: Novo Projeto_43
+  - first:
+      213: -7475992028854253418
+    second: Novo Projeto_44
+  - first:
+      213: -6379081087347054923
+    second: Novo Projeto_45
+  - first:
+      213: 2747314036968828906
+    second: Novo Projeto_46
+  - first:
+      213: 7827648886684062953
+    second: Novo Projeto_47
+  - first:
+      213: -3277165797625009571
+    second: Novo Projeto_48
+  - first:
+      213: -5733040273671406209
+    second: Novo Projeto_49
+  - first:
+      213: 4513114812225578451
+    second: Novo Projeto_50
+  - first:
+      213: 2034718210897636851
+    second: Novo Projeto_51
+  - first:
+      213: -5632959854978506905
+    second: Novo Projeto_52
+  - first:
+      213: 7542349205482023566
+    second: Novo Projeto_53
+  - first:
+      213: -5827376200171499283
+    second: Novo Projeto_54
+  - first:
+      213: 5802607519118018147
+    second: Novo Projeto_55
+  - first:
+      213: -6019363933695805995
+    second: Novo Projeto_56
+  - first:
+      213: -1615743630378835498
+    second: Novo Projeto_57
+  - first:
+      213: 7212350243080993142
+    second: Novo Projeto_58
+  - first:
+      213: 6415219208301142847
+    second: Novo Projeto_59
+  - first:
+      213: -551735324950120475
+    second: Novo Projeto_60
+  - first:
+      213: 642989162483828071
+    second: Novo Projeto_61
+  - first:
+      213: 2267544986270419954
+    second: Novo Projeto_62
+  - first:
+      213: -553231624396982958
+    second: Novo Projeto_63
+  - first:
+      213: -7446974813389659253
+    second: Novo Projeto_64
+  - first:
+      213: -1082850983540369249
+    second: Novo Projeto_65
+  - first:
+      213: 820680992606311006
+    second: Novo Projeto_66
+  - first:
+      213: -7444320302386516446
+    second: Novo Projeto_67
+  - first:
+      213: 5227615385932454343
+    second: Novo Projeto_68
+  - first:
+      213: 2857919563973010620
+    second: Novo Projeto_69
+  - first:
+      213: -3899009648215946843
+    second: Novo Projeto_70
+  - first:
+      213: -9099316944688961435
+    second: Novo Projeto_71
+  - first:
+      213: 7563546337170698229
+    second: Novo Projeto_72
+  - first:
+      213: 5662309735294284656
+    second: Novo Projeto_73
+  - first:
+      213: -1112222688126075125
+    second: Novo Projeto_74
+  - first:
+      213: 5091103365757314991
+    second: Novo Projeto_75
+  - first:
+      213: 5969184856272698068
+    second: Novo Projeto_76
+  - first:
+      213: 5021552744540488901
+    second: Novo Projeto_77
+  - first:
+      213: 1234443583769187567
+    second: Novo Projeto_78
+  - first:
+      213: -4861287665647355656
+    second: Novo Projeto_79
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Novo Projeto_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 686
+        width: 203
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0c56bbbc66609a0800000000000000
+      internalID: -6267208806231064394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Novo Projeto_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 359
+        width: 115
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a7f8bd6924219f0800000000000000
+      internalID: -499263392988562932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Novo Projeto_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 644
+        width: 173
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00a348aaf1102b40800000000000000
+      internalID: 5413346520361836554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Novo Projeto_2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 590
+        width: 144
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e74a5892b123c20800000000000000
+      internalID: 3184637751654121002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Novo Projeto_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 535
+        width: 224
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9180e62583ac6eaf0800000000000000
+      internalID: -367383976334194663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Novo Projeto_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 488
+        width: 243
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412e381a0009e6d00800000000000000
+      internalID: 967869302315409940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Novo Projeto_5
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 431
+        width: 140
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bc841c76a4f2cc0800000000000000
+      internalID: -3733683756581991633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
